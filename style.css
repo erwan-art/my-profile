@@ -1,0 +1,91 @@
+h1 {
+	color: red
+}
+h1, h2{
+	font-family: :georgia;
+	color: red
+}
+
+
+h2 {
+		font-size: 30px
+}
+
+body {
+	
+	background-color: #AEEDF9
+}
+body {
+	font-size: 16px
+}
+
+body {
+	font-family: georgia
+}
+
+a {
+color: #A77FB2;
+ }
+ a {
+ 	text-decoration: none;
+ }
+ a {
+ 	transition: color 0,3s ease;
+ }
+ 
+
+a:hover {
+	color: purple
+	}
+a{
+	text-decoration: none;
+
+}
+
+.container {
+	width: 700px
+}
+
+.container {
+	margin: 40px auto
+}
+
+.card-white {
+	background-color: white
+
+}
+.card-white {
+	padding: 40px
+}
+.card-white {
+	box-shadow: 0px 10px 30px rgba(0,0,0,.1)
+}
+.card-white {
+	margin: 20px 0px
+}
+.card-white {
+	text-align: center;
+}
+#img-circle {
+	border-radius: 50%
+}
+#texte-presentation {
+	margin : 40px;
+}
+@media (max-width:960px ) {
+	.conatainer {
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px){
+	.container {
+		width: 500px;
+	}
+
+@media (max-width: 540px) {
+	.container {
+		width: 300px;
+	}
+}	
+}
